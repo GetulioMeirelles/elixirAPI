@@ -1,3 +1,5 @@
+Just an API to learn elixir with phoenix framework.
+
 # ElixirAPI
 
 To start your Phoenix server:
